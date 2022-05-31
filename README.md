@@ -2,7 +2,12 @@
 
 ## 编程
 
-### 设计模式
+### C++
+
+- [《C++ Primer》](https://book.douban.com/subject/25708312/)
+  - [代码](https://github.com/yd0729/CPP-Primer)
+
+### C#
 
 - [《C# 设计模式》](https://book.douban.com/subject/30131470/)
   - [代码](https://github.com/yd0729/CSharp-Design-Pattern)
