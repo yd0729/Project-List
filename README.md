@@ -6,17 +6,18 @@
 
 - 🙇🏻‍♂️ [《C++ Primer》](https://book.douban.com/subject/25708312/)
   - [代码](https://github.com/yd0729/CPP-Primer)
+- 🙇🏻‍♂️ [《Professional C++, 5th Edition》](https://book.douban.com/subject/35416867/): [Code](https://github.com/yd0729/Professional-CPP)
 
 ### C#
 
-- 🙇🏻‍♂️ [《C# 10 in a Nutshell》]
+- 🙇🏻‍♂️ [《C# 10 in a Nutshell》]()
   - [代码](https://github.com/yd0729/CSharp-Nutshell)
 - 🙇🏻‍♂️ [《C# 设计模式》](https://book.douban.com/subject/30131470/)
   - [代码](https://github.com/yd0729/CSharp-Design-Pattern)
 
 ## 算法
 
-- 🙇🏻‍♂️ [题解](https://github.com/yd0729/CP-Solutions)
+- 🙇🏻‍♂️ [算法竞赛题解](https://github.com/yd0729/CP-Solutions)
 - 🙇🏻‍♂️ [《Algorithms Fourth Edition》]()
 
 ## 计算机图形学
